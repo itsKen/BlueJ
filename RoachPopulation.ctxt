@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=population
+comment0.target=RoachPopulation(double)
+comment0.text=\r\n\ Constructs\ size\ of\ the\ initial\ population\ of\ roaches\r\n\ @param\ population\ current\ population\ of\ roaches\ \r\n
+comment1.params=
+comment1.target=void\ breed()
+comment1.text=\r\n\ Doubles\ the\ current\ population\ \r\n
+comment2.params=multiplier
+comment2.target=void\ labBreed(double)
+comment2.text=\r\n\ Increases\ the\ population\ by\ the\ specified\ ratio(multiplier)\r\n
+comment3.params=
+comment3.target=void\ spray()
+comment3.text=\r\n\ Reduces\ the\ current\ population\ by\ 10%\r\n
+comment4.params=
+comment4.target=void\ wipeOut()
+comment4.text=\r\n\ Decimates\ the\ roach\ population,\ leaving\ it\ at\ 0\r\n
+comment5.params=
+comment5.target=double\ getRoaches()
+comment5.text=\r\n\ Return\ the\ final\ roach\ population\r\n
+numComments=6

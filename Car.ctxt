@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fuelEfficiency
+comment0.target=Car(double)
+comment1.params=amount
+comment1.target=void\ tank(double)
+comment2.params=
+comment2.target=double\ getFuelLevel()
+comment3.params=distance
+comment3.target=void\ drive(double)
+numComments=4

@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=double\ sphereVolume(double)
+comment0.text=\r\n\ returns\ volume\ of\ a\ sphere\ with\ the\ given\ radius.\r\n\ (Postcondition\:\ volume>\=0)\r\n\ @param\ radius\ radius\ of\ the\ sphere\r\n\ @return\ volume\ of\ a\ sphere\r\n\ (Precondition\:\ radius>\=0)\r\n
+comment1.params=r
+comment1.target=double\ sphereSurface(double)
+comment1.text=\r\n\ returns\ surface\ area\ of\ a\ sphere\ with\ the\ given\ radius.\r\n\ (Postcondition\:\ surface\ area>\=0)\r\n\ @param\ radius\ radius\ of\ the\ sphere\r\n\ @return\ surface\ area\ of\ a\ sphere\r\n\ (Precondition\:\ radius>\=0)\r\n
+comment2.params=r\ h
+comment2.target=double\ cylinderVolume(double,\ double)
+comment2.text=\r\n\ returns\ volume\ of\ a\ cylinder\ with\ the\ given\ radius\ and\ height.\r\n\ (Postcondition\:\ volume>\=0)\r\n\ @param\ radius\ radius\ of\ the\ cylinder\r\n\ @param\ height\ height\ of\ the\ cylinder\r\n\ @return\ volume\ of\ a\ cylinder\r\n\ (Precondition\:\ radius>\=0\ height>\=0)\r\n
+comment3.params=r\ h
+comment3.target=double\ cylinderSurface(double,\ double)
+comment3.text=\r\n\ returns\ surface\ area\ of\ a\ cylinder\ with\ the\ given\ radius\ and\ height.\r\n\ (Postcondition\:\ cylinder>\=0)\r\n\ @param\ radius\ radius\ of\ the\ cylinder\r\n\ @param\ height\ height\ of\ the\ cylinder\r\n\ @return\ surface\ area\ of\ a\ cylinder\r\n\ (Precondition\:\ radius>\=0\ height>\=0)\r\n
+comment4.params=r\ h
+comment4.target=double\ coneVolume(double,\ double)
+comment4.text=\r\n\ returns\ volume\ of\ a\ cone\ with\ the\ given\ radius\ and\ height.\r\n\ (Postcondition\:\ volume>\=0)\r\n\ @param\ radius\ radius\ of\ the\ cone\r\n\ @param\ height\ height\ of\ the\ cone\r\n\ @return\ volume\ of\ a\ cone\r\n\ (Precondition\:\ radius>\=0\ height>\=0)\r\n
+comment5.params=r\ h
+comment5.target=double\ coneSurface(double,\ double)
+comment5.text=\r\n\ returns\ surface\ area\ of\ a\ cone\ with\ the\ given\ radius\ and\ height.\r\n\ (Postcondition\:\ cone>\=0)\r\n\ @param\ radius\ radius\ of\ the\ cone\r\n\ @param\ height\ height\ of\ the\ cone\r\n\ @return\ surface\ area\ of\ a\ cone\r\n\ (Precondition\:\ radius>\=0\ height>\=0)\r\n
+comment6.params=e
+comment6.target=double\ perimeter(java.awt.geom.Ellipse2D.Double)
+comment6.text=\r\n\ \r\n
+comment7.params=e
+comment7.target=double\ area(java.awt.geom.Ellipse2D.Double)
+comment7.text=\r\n\ \r\n
+comment8.params=p\ e
+comment8.target=boolean\ isOnBoundary(java.awt.geom.Point2D.Double,\ java.awt.geom.Ellipse2D.Double)
+comment8.text=\r\n\ calculates\ whether\ or\ not\ a\ point\ is\ on\ the\ ellipse,\ only\ the\ circumference\r\n\ (Postcondition\:\ N/A)\r\n\ @param\ p\ the\ (x,y)\ coordinate\ given\ by\ the\ user\ that\ is\ being\ checked\r\n\ @param\ e\ this\ is\ the\ ellipse\ that\ has\ different\ points\ as\ its\ solution\ and\ an\ area\ inside\r\n\ @return\ true\ or\ false\ based\ on\ calculations.\ \r\n\ (Precondition\:\ the\ legth\ and\ width\ of\ the\ ellipse\ must\ be\ greater\ than\ 0)\r\n
+comment9.params=p\ e
+comment9.target=boolean\ isInside(java.awt.geom.Point2D.Double,\ java.awt.geom.Ellipse2D.Double)
+comment9.text=\r\n\ \r\n
+numComments=10

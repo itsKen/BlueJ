@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=first\ last
+comment0.target=Passenger(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Initializes\ the\ First\ and\ last\ name\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFullName()
+comment1.text=\r\n\ returns\ the\ full\ name\r\n\ @returns\ full\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\r\n\ returns\ first\ name\r\n\ @returns\ first\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment3.text=\r\n\ returns\ last\ name\r\n\ @returns\ last\ name\r\n
+numComments=4

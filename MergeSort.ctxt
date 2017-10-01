@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=arraySize
+comment0.target=MergeSort(int)
+comment1.params=
+comment1.target=void\ fillArray()
+comment2.params=nums\ startIndex\ endIndex
+comment2.target=void\ mergeSort(int[],\ int,\ int)
+comment3.params=nums\ startIndex\ midIndex\ endIndex
+comment3.target=void\ merge(int[],\ int,\ int,\ int)
+comment4.params=
+comment4.target=int[]\ getArray()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

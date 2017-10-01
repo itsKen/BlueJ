@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KFC()
+comment1.params=e
+comment1.target=void\ addEmployee(Employee)
+comment2.params=increase
+comment2.target=void\ raiseForAll(double)
+comment3.params=name\ increase
+comment3.target=void\ raiseIndividually(java.lang.String,\ double)
+comment4.params=name
+comment4.target=void\ remove(java.lang.String)
+comment5.params=name
+comment5.target=int\ findEmployeeIndex(java.lang.String)
+comment6.params=
+comment6.target=void\ printPayroll()
+numComments=7

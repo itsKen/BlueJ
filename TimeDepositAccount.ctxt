@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=newAmount\ maturity\ interestRate
+comment0.target=TimeDepositAccount(double,\ int,\ double)
+comment0.text=\r\n\ Creates\ a\ time\ deposit\ account\ with\ a\ given\ balance,\ maturity,\ and\ interest\ rate.\r\n\ (Postcondition\:\ None)\r\n\ @param\ newAmount\ the\ balance\ of\ the\ account\ input\ by\ the\ user\r\n\ @param\ maturity\ the\ months\ to\ maturity\ of\ the\ account\ input\ by\ the\ user\r\n\ @param\ interestRate\ the\ interest\ rate\ of\ the\ account\ input\ by\ the\ user\r\n\ (Precondition\:\ None)\r\n
+comment1.params=amount
+comment1.target=void\ withdraw(double)
+comment1.text=\r\n\ Withdraws\ money\ from\ the\ account\r\n\ (Postcondition\:\ balance\ >\ 0)\r\n\ (Precondition\:\ month\ >\ 0)\r\n
+comment2.params=
+comment2.target=void\ addInterest()
+comment2.text=\r\n\ Add\ interest\ to\ the\ account\ at\ the\ end\ of\ a\ month\r\n\ (Postcondiiton\:\ balance\ >\ 0)\r\n\ (Precondition\:\ months\ >\ 0)\r\n
+numComments=3

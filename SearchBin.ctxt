@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=arraySize
+comment0.target=SearchBin(int)
+comment1.params=
+comment1.target=void\ fillArray()
+comment2.params=
+comment2.target=void\ sort()
+comment3.params=numberToFind
+comment3.target=void\ Linear(int)
+comment4.params=numberToFind
+comment4.target=void\ Binary(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

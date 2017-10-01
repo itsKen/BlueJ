@@ -1,0 +1,67 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Airplane()
+comment1.params=
+comment1.target=void\ initializeSeats()
+comment1.text=\r\n\ Initializes\ the\ seats\r\n
+comment10.params=
+comment10.target=void\ NoPref()
+comment10.text=\r\n\ seats\ the\ passenger\ in\ a\ nonpreferential\ seat\r\n
+comment11.params=numberOfSeats
+comment11.target=void\ randomFill(int)
+comment11.text=\r\n\ randomly\ fills\ up\ the\ seats\r\n\ @param\ numberOfSeats\ the\ number\ of\ seats\r\n\ (Precondition\:\ numberOfSeats\ <\=\ 0)\r\n
+comment12.params=section\ row
+comment12.target=boolean\ checkAvail(java.lang.String,\ int)
+comment12.text=\r\n\ checks\ the\ vacacncy\ of\ the\ seats\r\n\ @param\ section\ the\ section\r\n\ @param\ row\ the\ row\r\n\ (Precondition\:\ row\ <\=\ 0)\r\n
+comment13.params=
+comment13.target=void\ printSeats()
+comment13.text=\r\n\ Prints\ the\ seats\r\n
+comment14.params=
+comment14.target=void\ GroupSeat()
+comment14.text=\r\n\ Seats\ a\ group\ of\ passenger\r\n
+comment15.params=groupsize\ row\ section
+comment15.target=boolean\ GS1(int,\ int,\ int)
+comment15.text=\r\n\ checks\ if\ the\ group\ of\ seats\ is\ availible\r\n\ (Postcondition\:\ GS1\ \=\=\ true)\r\n\ @param\ groupsize\ the\ group\ size\r\n\ @param\ row\ the\ row\r\n\ @param\ section\ the\ section\r\n\ (Precondition\:\ groupsize\ >\=\ 0,\ row\ >\=\ 0)\r\n
+comment16.params=groupsize\ row\ section
+comment16.target=void\ GS2(int,\ int,\ int)
+comment16.text=\r\n\ groups\ the\ passengers\r\n\ @param\ groupsize\ the\ group\ size\r\n\ @param\ row\ the\ row\r\n\ @param\ section\ the\ section\r\n\ (Precondition\:\ groupsize\ >\=0,\ row\ >\=\ 0,\ section\ >\=\ 0)\r\n
+comment17.params=
+comment17.target=void\ PrintPassenger()
+comment17.text=\r\n\ Prints\ the\ passenger\ names\ and\ they\ have\ window\ view,\ first\ class,\ economy\ class,\ or\ aisle\r\n
+comment18.params=
+comment18.target=void\ remove1()
+comment18.text=\r\n\ Asks\ the\ User\ the\ name\ of\ the\ passenger\ they\ will\ like\ to\ remove\r\n
+comment19.params=p
+comment19.target=void\ remove2(Passenger)
+comment19.text=\r\n\ Removes\ the\ passenger\r\n\ @param\ p\ the\ passenger\r\n
+comment2.params=p
+comment2.target=void\ assignS(Passenger)
+comment2.text=\r\n\ Randomly\ assigns\ passengers\r\n\ @param\ p\ the\ passnger\r\n
+comment20.params=
+comment20.target=void\ DisplayMenu()
+comment20.text=\r\n\ Display\ Menu\ for\ the\ User\ to\ use\r\n
+comment21.params=args
+comment21.target=void\ main(java.lang.String[])
+comment21.text=\r\n\ Prints\ out\ the\ seats,\ display\ menu,\ and\ randomly\ fill\r\n
+comment3.params=j
+comment3.target=boolean\ windowChecker(java.lang.String)
+comment3.text=\r\n\ checks\ if\ the\ section\ is\ a\ window\ section\r\n\ @param\ j\ the\ section\r\n
+comment4.params=j
+comment4.target=int\ converter(java.lang.String)
+comment4.text=\r\n\ Converts\ all\ the\ sections\ to\ numbers\r\n\ @param\ j\ the\ sectioin\r\n
+comment5.params=section\ row\ bob
+comment5.target=void\ Reserve(java.lang.String,\ int,\ Passenger)
+comment5.text=\r\n\ Reserves\ a\ seat\ for\ the\ passenger\r\n\ @param\ section\ the\ section\r\n\ @param\ row\ the\ row\r\n\ @param\ bob\ The\ passenger\r\n\ (Precondition\:row\ >\=\ 0)\r\n
+comment6.params=
+comment6.target=void\ Preference()
+comment6.text=\r\n\ Asks\ the\ user\ thier\ preference\ of\ reservation\r\n
+comment7.params=
+comment7.target=void\ P1()
+comment7.text=\r\n\ Seats\ a\ passenger\ in\ the\ first\ 4\ rows\r\n
+comment8.params=
+comment8.target=void\ P2()
+comment8.text=\r\n\ seats\ the\ passenger\ in\ a\ window\ seat\r\n
+comment9.params=
+comment9.target=void\ P3()
+comment9.text=\r\n\ seats\ the\ passenger\ in\ a\ window\ and\ firstclass(the\ first\ 4\ rows)\ seat\r\n
+numComments=22

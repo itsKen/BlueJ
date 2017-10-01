@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CreateChart()
+comment1.params=g2
+comment1.target=void\ illustrate(java.awt.Graphics2D)
+comment2.params=
+comment2.target=void\ maximum()
+numComments=3
